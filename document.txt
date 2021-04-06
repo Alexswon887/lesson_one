@@ -6,4 +6,5 @@ conflict solving main
 conflict solving feature
 changes for rebase (main)
 changes for rebase (feature)
+changes for cherry-pick (feature)
 
