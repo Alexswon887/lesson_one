@@ -2,3 +2,4 @@ changes1
 changes2
 changes3 for gui
 changes for feature
+conflict solving feature
