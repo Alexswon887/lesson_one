@@ -18,3 +18,5 @@ second try to cherry-pick (f)
 again second try to cherry-pick (f)
 
 for tag 
+
+for stash
